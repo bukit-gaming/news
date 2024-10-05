@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bukit-gaming.github.io/news/sitemap.xml
